@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/rqcu9n3jydl9gp3d?svg=true)](https://ci.appveyor.com/project/kiiyas/ahj-005-metrics)
+[![Build status](https://ci.appveyor.com/api/projects/status/2lyxsrgs45aeb0uf?svg=true)](https://ci.appveyor.com/project/kiiyas/ahj-009-collapse-widget)
 
 [Ссылка на GitHub-Pages](https://kiiyas.github.io/AHJ-005_METRICS/)
 
